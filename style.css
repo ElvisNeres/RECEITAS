@@ -1,0 +1,63 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.Título {
+    background-color: rgb(247, 130, 149);
+    color: white;
+    text-align: center;
+    position: sticky;
+    width: 100%;
+    top: 0px;
+    height: 5vh;
+    padding: 16px 0px;
+}
+
+.img1 {
+    width: 100%;
+}
+
+body {
+    background-color: pink;
+}
+
+.img2 {
+    height: 100px;
+}
+
+.img3 {
+    height: 100px;
+}
+
+.Doces {
+    color: white;
+    text-align: center;
+    background-color: rgb(132, 185, 245);
+}
+
+.Candy {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+}
+
+.Foto1 {
+    display: flex;
+    height: 70vh;
+    background-image: url(./Img/background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.Candys {
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+ol {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(132, 185, 245);
+}
